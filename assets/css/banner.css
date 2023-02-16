@@ -1,0 +1,37 @@
+#banner {
+    background-color: #292E36;
+}
+
+.banner {
+    display: flex;
+    justify-content: space-between;
+}
+
+h1 {
+    margin-bottom: 0;
+    padding-bottom: 20px;
+    font-family: 'Cormorant Infant', sans-serif;
+    font-size: 120px;
+    font-weight: 400;
+    line-height: 110px;
+    letter-spacing: 0.2px;
+    color: white;
+}
+
+.title {
+    align-self: center;
+}
+
+.title p {
+    padding-bottom: 30px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0.2px;
+    color: white;
+}
+
+.buttonmenu {
+    width: 230px;
+}
