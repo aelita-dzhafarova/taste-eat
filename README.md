@@ -1,0 +1,2 @@
+# taste-eat
+Training project
