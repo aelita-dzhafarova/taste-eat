@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Infant&family=Josefin+Sans:wght@200&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+h2 {
+    font-family: 'Cormorant Infant', sans-serif;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 56px;
+    letter-spacing: 0.2px;
+    color: #292E36;
+}
+
+h3 {
+    font-family: 'Josefin Sans',sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0.3px;
+    color: #292E36;
+    border-top: solid 1px #E1B168;
+    border-bottom: solid 1px #E1B168;
+}
+
+.button1 {
+    height: 73px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 33px;
+    letter-spacing: 0.2px;
+    text-align: center;
+    color: #E1B168;
+    background-color: #292E36;
+    border: 2px solid #E1B168;
+}
+
+.button2 {
+    height: 73px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 33px;
+    letter-spacing: 0.2px;
+    text-align: center;
+    background-color: #E1B168;
+    color: #292E36;
+    border: none;
+}
+
+.button3 {
+    height: 68px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 33px;
+    letter-spacing: 0.2px;
+    text-align: center;
+    background-color: white;
+    color: #292E36;
+    border: none;
+}
+

@@ -1,0 +1,46 @@
+header {
+    background-color: #292E36;
+}
+
+.top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.topbutton {
+    width: 295px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid #5C6168;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+nav a {
+    margin-right: 60px;
+    text-decoration: none;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0.2px;
+    color: white;
+}
+
+nav a:hover {
+    color: #E1B168;
+}
+
+nav img {
+    margin-left: 20px;
+}
+
+
+
+
