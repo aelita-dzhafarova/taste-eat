@@ -1,0 +1,25 @@
+#booking {
+    background-image: url(../images/background-image1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 977px;
+}
+
+.booking {
+    margin-left: 260px;
+    margin-right: 260px;
+    padding-top: 140px;
+    height: 697px;
+    text-align: center;
+    background: rgba(41, 46, 54, 0.95);
+}
+
+.booking h3, h2 {
+    color: white;
+}
+
+.booking button {
+    width: 242px;
+    height: 68px;
+    padding: 23px, 54px, 12px;
+}
