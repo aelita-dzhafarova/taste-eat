@@ -19,6 +19,7 @@ h2 {
 }
 
 h3 {
+    display: inline-block;
     font-family: 'Josefin Sans',sans-serif;
     font-size: 15px;
     font-weight: 400;
@@ -27,6 +28,15 @@ h3 {
     color: #292E36;
     border-top: solid 1px #E1B168;
     border-bottom: solid 1px #E1B168;
+}
+
+h4 {
+    font-family: 'Cormorant Infant', sans-serif;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 50px;
+    letter-spacing: 0.2px;
+    color: #292E36;
 }
 
 .button1 {
@@ -68,3 +78,30 @@ h3 {
     border: none;
 }
 
+.button4 {
+    height: 73px;
+    width: 255px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 33px;
+    letter-spacing: 0.2px;
+    text-align: center;
+    background-color: #FFFFFF;
+    color: #E1B168;
+    border: 2px solid #E1B168;
+}
+
+.button4:hover {
+    color: #e08600; 
+    border: 2px solid #e08600;
+    cursor:pointer;
+}
+
+p {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.2px;
+}

@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Infant&family=Josefin+Sans:wght@200&display=swap');
+
+#menu {
+    padding-top: 100px;
+    background-color: #FFFFFF;
+}
+
+.menu-flex {
+    display: flex;
+}
+
+.menu-flex1 {
+    display: block;
+    width: 486px;
+    margin-right: 40px;
+}
+
+.menu-flex2 {
+    display: block;
+    width: 800px;
+}
+
+.imageSpecial {
+    margin-top: 20px;
+    margin-bottom: 45px;
+}
+
+.plate-description-flex {
+    display: flex;
+    margin-bottom: 35px;
+}
+
+.img-plate {
+    margin-right: 20px;
+}
+
+.plate-title {
+    font-family: 'Cormorant Infant', sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 42px;
+    letter-spacing: 0.2px;
+    color: #292E36;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    white-space: nowrap;
+}
+
+.ingredients {
+    font-family: 'Josefin Sans',sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0.2px;
+    color: #555555;
+    margin-top: 0px;
+    white-space: nowrap;
+}
+
+.line-price {
+    position: relative;
+    top: 65px;
+    height: 2px;
+    width: 100%;
+    background: #AAAAAA;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.price {
+    font-family: 'Cormorant Infant', sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 42px;
+    letter-spacing: 0.2px;
+}
+
+.last-plate {
+    margin-bottom: 60px;
+}
+
+@media screen and (max-width: 767px){
+    .menu-flex {
+        flex-direction: column;
+    }
+}
